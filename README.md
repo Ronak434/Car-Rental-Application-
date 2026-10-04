@@ -57,6 +57,19 @@ The project is split into two parts:
 - MongoDB (database)
 - JSON Web Tokens (JWT) for authentication
 
+
+💻 Tech Stack
+🚀 Frontend
+
+<p align="left"> <a href="https://react.dev/" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50"/> </a> </p>
+
+⚙️ Backend
+
+<p align="left"> <a href="https://nodejs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/> </a> </p>
+
+🗄️ Database
+
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/> </a> </p>
 ---
 
 ## 📁 Project Structure
