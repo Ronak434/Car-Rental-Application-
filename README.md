@@ -43,7 +43,7 @@ The project is split into two parts:
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ## 🛠️ Tech Stack
 
 **Client (Frontend)**
 - React.js and Next.js
@@ -55,7 +55,7 @@ The project is split into two parts:
 - Express.js
 - JavaScript (ES6+)
 - MongoDB (database)
-- JSON Web Tokens (JWT) for authentication
+- JSON Web Tokens (JWT) for authentication -->
 
 
 💻 Tech Stack
